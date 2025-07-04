@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Arnab</h1>
 
+<p align="center">
+  
+  <a href="">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20and%20python%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Myself  
 🌱 I’m currently learning AI & ML And different Technologies.  
@@ -64,7 +70,9 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=arnab9957&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=10&theme=gruvbox&no-frame=true"/>
+</a>
 
 ---
 
