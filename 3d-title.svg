@@ -1,0 +1,50 @@
+<svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="25%" style="stop-color:#FF8C00;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFA500;stop-opacity:1" />
+      <stop offset="75%" style="stop-color:#FFFF00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFD700;stop-opacity:1" />
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 300 60;360 300 60" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="3" dy="3" stdDeviation="2" flood-color="#CC9900" flood-opacity="0.8"/>
+      <feDropShadow dx="6" dy="6" stdDeviation="3" flood-color="#B38600" flood-opacity="0.6"/>
+      <feDropShadow dx="9" dy="9" stdDeviation="4" flood-color="#997300" flood-opacity="0.4"/>
+    </filter>
+    
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- 3D Shadow layers -->
+  <text x="50" y="70" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#806000" opacity="0.3">Hi 👋, I'm Arnab</text>
+  <text x="48" y="68" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#997300" opacity="0.4">Hi 👋, I'm Arnab</text>
+  <text x="46" y="66" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#B38600" opacity="0.5">Hi 👋, I'm Arnab</text>
+  <text x="44" y="64" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#CC9900" opacity="0.6">Hi 👋, I'm Arnab</text>
+  <text x="42" y="62" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#E6B800" opacity="0.7">Hi 👋, I'm Arnab</text>
+  
+  <!-- Main text with gradient and glow -->
+  <text x="40" y="60" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="url(#goldGradient)" filter="url(#glow)">
+    Hi 👋, I'm Arnab
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-2; 0,0" dur="3s" repeatCount="indefinite"/>
+  </text>
+  
+  <!-- Sparkle effects -->
+  <text x="10" y="40" font-size="24" fill="#FFD700" opacity="0.8">✨
+    <animateTransform attributeName="transform" type="rotate" values="0 22 28; 360 22 28" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </text>
+  
+  <text x="550" y="90" font-size="20" fill="#FF8C00" opacity="0.8">✨
+    <animateTransform attributeName="transform" type="rotate" values="360 560 100; 0 560 100" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </text>
+</svg>
