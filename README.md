@@ -80,6 +80,20 @@
 
 ---
 
+---
+
+## 🎮 Auto-Playing Pac-Man Game
+
+<div align="center">
+
+![Auto Pac-Man Game](pacman-game.svg)
+
+*🤖 Watch Pac-Man automatically navigate the maze, collect dots, and avoid ghosts!*
+
+</div>
+
+---
+
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
