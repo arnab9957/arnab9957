@@ -95,16 +95,6 @@
 ## 📈 My Daily Contribution Graph
 
 <div align="center">
-  
-![My Daily Contribution Graph](contribution_graph.png)
-
-*📊 Automatically updated daily via GitHub Actions*
-
-</div>
-
-### Alternative Dynamic Contribution Graphs
-
-<div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arnab9957&theme=github-compact&hide_border=true&bg_color=0d1117&color=39d353&line=26a641&point=39d353)
 
