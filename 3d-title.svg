@@ -8,31 +8,16 @@
       <stop offset="100%" style="stop-color:#FFD700;stop-opacity:1" />
       <animateTransform attributeName="gradientTransform" type="rotate" values="0 300 60;360 300 60" dur="4s" repeatCount="indefinite"/>
     </linearGradient>
-    
-    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
-      <feDropShadow dx="3" dy="3" stdDeviation="2" flood-color="#CC9900" flood-opacity="0.8"/>
-      <feDropShadow dx="6" dy="6" stdDeviation="3" flood-color="#B38600" flood-opacity="0.6"/>
-      <feDropShadow dx="9" dy="9" stdDeviation="4" flood-color="#997300" flood-opacity="0.4"/>
-    </filter>
-    
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge> 
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
   
   <!-- 3D Shadow layers -->
-  <text x="50" y="70" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#806000" opacity="0.3">Hi 👋, I'm Arnab</text>
-  <text x="48" y="68" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#997300" opacity="0.4">Hi 👋, I'm Arnab</text>
-  <text x="46" y="66" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#B38600" opacity="0.5">Hi 👋, I'm Arnab</text>
-  <text x="44" y="64" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#CC9900" opacity="0.6">Hi 👋, I'm Arnab</text>
-  <text x="42" y="62" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#E6B800" opacity="0.7">Hi 👋, I'm Arnab</text>
+  <text x="46" y="66" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#806000" opacity="0.3">Hi 👋, I'm Arnab</text>
+  <text x="44" y="64" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#997300" opacity="0.4">Hi 👋, I'm Arnab</text>
+  <text x="42" y="62" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#B38600" opacity="0.5">Hi 👋, I'm Arnab</text>
+  <text x="41" y="61" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="#CC9900" opacity="0.6">Hi 👋, I'm Arnab</text>
   
-  <!-- Main text with gradient and glow -->
-  <text x="40" y="60" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="url(#goldGradient)" filter="url(#glow)">
+  <!-- Main text with gradient - crisp and clear -->
+  <text x="40" y="60" font-family="Arial Black, Arial, sans-serif" font-size="48" font-weight="900" fill="url(#goldGradient)" shape-rendering="crispEdges">
     Hi 👋, I'm Arnab
     <animateTransform attributeName="transform" type="translate" values="0,0; 0,-2; 0,0" dur="3s" repeatCount="indefinite"/>
   </text>
