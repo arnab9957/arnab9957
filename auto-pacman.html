@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto-Playing Pac-Man</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            background: #000;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+        
+        .game-container {
+            text-align: center;
+        }
+        
+        canvas {
+            border: 3px solid #00f;
+            background: #000;
+        }
+        
+        .score {
+            color: #ff0;
+            font-size: 24px;
+            margin: 10px 0;
+        }
+        
+        .controls {
+            color: #fff;
+            margin-top: 10px;
+        }
+        
+        button {
+            background: #ff0;
+            border: none;
+            padding: 10px 20px;
+            margin: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            border-radius: 5px;
+        }
+        
+        button:hover {
+            background: #ffa500;
+        }
+    </style>
+</head>
+<body>
+    <div class="game-container">
+        <div class="score">Score: <span id="score">0</span></div>
+        <canvas id="gameCanvas" width="600" height="400"></canvas>
+        <div class="controls">
+            <button onclick="toggleAuto()">Toggle Auto-Play</button>
+            <button onclick="resetGame()">Reset Game</button>
+            <div>Auto-Play: <span id="autoStatus">ON</span></div>
+        </div>
+    </div>
+
+    <script>
+        const canvas = document.getElementById('gameCanvas');
+        const ctx = canvas.getContext('2d');
+        const scoreElement = document.getElementById('score');
+        const autoStatusElement = document.getElementById('autoStatus');
+
+        // Game variables
+        let score = 0;
+        let autoPlay = true;
+        let gameRunning = true;
+
+        // Pac-Man object
+        const pacman = {
+            x: 50,
+            y: 200,
+            size: 15,
+            speed: 2,
+            direction: 'right',
+            mouthAngle: 0,
+            mouthSpeed: 0.3
+        };
+
+        // Ghosts array
+        const ghosts = [
+            { x: 500, y: 100, size: 15, speed: 1.5, color: '#ff0000', direction: 'left' },
+            { x: 400, y: 300, size: 15, speed: 1.2, color: '#ffb8ff', direction: 'up' },
+            { x: 300, y: 150, size: 15, speed: 1.8, color: '#00ffff', direction: 'down' },
+            { x: 200, y: 250, size: 15, speed: 1.3, color: '#ffb852', direction: 'right' }
+        ];
+
+        // Dots array
+        const dots = [];
+        const powerPellets = [];
+
+        // Initialize dots
+        function initializeDots() {
+            dots.length = 0;
+            powerPellets.length = 0;
+            
+            // Create regular dots
+            for (let x = 30; x < canvas.width - 30; x += 30) {
+                for (let y = 30; y < canvas.height - 30; y += 30) {
+                    if (Math.random() > 0.3) { // 70% chance for a dot
+                        dots.push({ x: x, y: y, size: 3 });
+                    }
+                }
+            }
+            
+            // Create power pellets
+            powerPellets.push({ x: 100, y: 100, size: 8 });
+            powerPellets.push({ x: 500, y: 100, size: 8 });
+            powerPellets.push({ x: 100, y: 300, size: 8 });
+            powerPellets.push({ x: 500, y: 300, size: 8 });
+        }
+
+        // AI pathfinding for Pac-Man
+        function getNextDirection() {
+            const directions = ['up', 'down', 'left', 'right'];
+            let bestDirection = pacman.direction;
+            let closestDot = null;
+            let minDistance = Infinity;
+
+            // Find closest dot
+            [...dots, ...powerPellets].forEach(dot => {
+                const distance = Math.sqrt(
+                    Math.pow(dot.x - pacman.x, 2) + Math.pow(dot.y - pacman.y, 2)
+                );
+                if (distance < minDistance) {
+                    minDistance = distance;
+                    closestDot = dot;
+                }
+            });
+
+            if (closestDot) {
+                // Move towards closest dot
+                const dx = closestDot.x - pacman.x;
+                const dy = closestDot.y - pacman.y;
+
+                if (Math.abs(dx) > Math.abs(dy)) {
+                    bestDirection = dx > 0 ? 'right' : 'left';
+                } else {
+                    bestDirection = dy > 0 ? 'down' : 'up';
+                }
+            }
+
+            // Avoid ghosts if too close
+            ghosts.forEach(ghost => {
+                const distance = Math.sqrt(
+                    Math.pow(ghost.x - pacman.x, 2) + Math.pow(ghost.y - pacman.y, 2)
+                );
+                if (distance < 50) {
+                    // Run away from ghost
+                    const dx = pacman.x - ghost.x;
+                    const dy = pacman.y - ghost.y;
+                    
+                    if (Math.abs(dx) > Math.abs(dy)) {
+                        bestDirection = dx > 0 ? 'right' : 'left';
+                    } else {
+                        bestDirection = dy > 0 ? 'down' : 'up';
+                    }
+                }
+            });
+
+            return bestDirection;
+        }
+
+        // Update Pac-Man position
+        function updatePacman() {
+            if (autoPlay) {
+                pacman.direction = getNextDirection();
+            }
+
+            // Move Pac-Man
+            switch (pacman.direction) {
+                case 'up':
+                    pacman.y -= pacman.speed;
+                    break;
+                case 'down':
+                    pacman.y += pacman.speed;
+                    break;
+                case 'left':
+                    pacman.x -= pacman.speed;
+                    break;
+                case 'right':
+                    pacman.x += pacman.speed;
+                    break;
+            }
+
+            // Wrap around screen
+            if (pacman.x < 0) pacman.x = canvas.width;
+            if (pacman.x > canvas.width) pacman.x = 0;
+            if (pacman.y < 0) pacman.y = canvas.height;
+            if (pacman.y > canvas.height) pacman.y = 0;
+
+            // Update mouth animation
+            pacman.mouthAngle += pacman.mouthSpeed;
+            if (pacman.mouthAngle > 1 || pacman.mouthAngle < 0) {
+                pacman.mouthSpeed = -pacman.mouthSpeed;
+            }
+        }
+
+        // Update ghosts
+        function updateGhosts() {
+            ghosts.forEach(ghost => {
+                // Simple AI for ghosts
+                if (Math.random() < 0.02) { // 2% chance to change direction
+                    const directions = ['up', 'down', 'left', 'right'];
+                    ghost.direction = directions[Math.floor(Math.random() * directions.length)];
+                }
+
+                // Move ghost
+                switch (ghost.direction) {
+                    case 'up':
+                        ghost.y -= ghost.speed;
+                        break;
+                    case 'down':
+                        ghost.y += ghost.speed;
+                        break;
+                    case 'left':
+                        ghost.x -= ghost.speed;
+                        break;
+                    case 'right':
+                        ghost.x += ghost.speed;
+                        break;
+                }
+
+                // Wrap around screen
+                if (ghost.x < 0) ghost.x = canvas.width;
+                if (ghost.x > canvas.width) ghost.x = 0;
+                if (ghost.y < 0) ghost.y = canvas.height;
+                if (ghost.y > canvas.height) ghost.y = 0;
+
+                // Bounce off walls occasionally
+                if (ghost.x < 20 || ghost.x > canvas.width - 20) {
+                    ghost.direction = ghost.direction === 'left' ? 'right' : 'left';
+                }
+                if (ghost.y < 20 || ghost.y > canvas.height - 20) {
+                    ghost.direction = ghost.direction === 'up' ? 'down' : 'up';
+                }
+            });
+        }
+
+        // Check collisions
+        function checkCollisions() {
+            // Check dot collisions
+            for (let i = dots.length - 1; i >= 0; i--) {
+                const dot = dots[i];
+                const distance = Math.sqrt(
+                    Math.pow(dot.x - pacman.x, 2) + Math.pow(dot.y - pacman.y, 2)
+                );
+                if (distance < pacman.size) {
+                    dots.splice(i, 1);
+                    score += 10;
+                }
+            }
+
+            // Check power pellet collisions
+            for (let i = powerPellets.length - 1; i >= 0; i--) {
+                const pellet = powerPellets[i];
+                const distance = Math.sqrt(
+                    Math.pow(pellet.x - pacman.x, 2) + Math.pow(pellet.y - pacman.y, 2)
+                );
+                if (distance < pacman.size) {
+                    powerPellets.splice(i, 1);
+                    score += 50;
+                }
+            }
+
+            // Check ghost collisions
+            ghosts.forEach(ghost => {
+                const distance = Math.sqrt(
+                    Math.pow(ghost.x - pacman.x, 2) + Math.pow(ghost.y - pacman.y, 2)
+                );
+                if (distance < pacman.size + ghost.size) {
+                    // Reset Pac-Man position
+                    pacman.x = 50;
+                    pacman.y = 200;
+                    score = Math.max(0, score - 100);
+                }
+            });
+
+            // Check if all dots are eaten
+            if (dots.length === 0 && powerPellets.length === 0) {
+                initializeDots();
+                score += 200; // Bonus for clearing level
+            }
+        }
+
+        // Draw Pac-Man
+        function drawPacman() {
+            ctx.save();
+            ctx.translate(pacman.x, pacman.y);
+            
+            // Rotate based on direction
+            switch (pacman.direction) {
+                case 'right':
+                    ctx.rotate(0);
+                    break;
+                case 'down':
+                    ctx.rotate(Math.PI / 2);
+                    break;
+                case 'left':
+                    ctx.rotate(Math.PI);
+                    break;
+                case 'up':
+                    ctx.rotate(-Math.PI / 2);
+                    break;
+            }
+
+            ctx.fillStyle = '#ffff00';
+            ctx.beginPath();
+            
+            // Draw Pac-Man with animated mouth
+            const mouthSize = pacman.mouthAngle * Math.PI / 3;
+            ctx.arc(0, 0, pacman.size, mouthSize, 2 * Math.PI - mouthSize);
+            ctx.lineTo(0, 0);
+            ctx.fill();
+            
+            ctx.restore();
+        }
+
+        // Draw ghosts
+        function drawGhosts() {
+            ghosts.forEach(ghost => {
+                ctx.fillStyle = ghost.color;
+                ctx.beginPath();
+                ctx.arc(ghost.x, ghost.y - ghost.size / 2, ghost.size, Math.PI, 0);
+                ctx.rect(ghost.x - ghost.size, ghost.y - ghost.size / 2, ghost.size * 2, ghost.size);
+                
+                // Draw ghost bottom wavy part
+                for (let i = 0; i < 4; i++) {
+                    ctx.lineTo(ghost.x - ghost.size + (i * ghost.size / 2), 
+                              ghost.y + ghost.size / 2 + (i % 2 === 0 ? -5 : 0));
+                }
+                ctx.fill();
+
+                // Draw eyes
+                ctx.fillStyle = '#fff';
+                ctx.beginPath();
+                ctx.arc(ghost.x - 5, ghost.y - 5, 3, 0, 2 * Math.PI);
+                ctx.arc(ghost.x + 5, ghost.y - 5, 3, 0, 2 * Math.PI);
+                ctx.fill();
+
+                ctx.fillStyle = '#000';
+                ctx.beginPath();
+                ctx.arc(ghost.x - 5, ghost.y - 5, 1, 0, 2 * Math.PI);
+                ctx.arc(ghost.x + 5, ghost.y - 5, 1, 0, 2 * Math.PI);
+                ctx.fill();
+            });
+        }
+
+        // Draw dots
+        function drawDots() {
+            ctx.fillStyle = '#ffff00';
+            dots.forEach(dot => {
+                ctx.beginPath();
+                ctx.arc(dot.x, dot.y, dot.size, 0, 2 * Math.PI);
+                ctx.fill();
+            });
+
+            // Draw power pellets with pulsing effect
+            const pulseSize = Math.sin(Date.now() * 0.01) * 2 + 8;
+            powerPellets.forEach(pellet => {
+                ctx.beginPath();
+                ctx.arc(pellet.x, pellet.y, pulseSize, 0, 2 * Math.PI);
+                ctx.fill();
+            });
+        }
+
+        // Main game loop
+        function gameLoop() {
+            if (!gameRunning) return;
+
+            // Clear canvas
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            // Update game objects
+            updatePacman();
+            updateGhosts();
+            checkCollisions();
+
+            // Draw everything
+            drawDots();
+            drawPacman();
+            drawGhosts();
+
+            // Update score display
+            scoreElement.textContent = score;
+
+            // Continue game loop
+            requestAnimationFrame(gameLoop);
+        }
+
+        // Toggle auto-play
+        function toggleAuto() {
+            autoPlay = !autoPlay;
+            autoStatusElement.textContent = autoPlay ? 'ON' : 'OFF';
+        }
+
+        // Reset game
+        function resetGame() {
+            score = 0;
+            pacman.x = 50;
+            pacman.y = 200;
+            pacman.direction = 'right';
+            initializeDots();
+            
+            // Reset ghost positions
+            ghosts[0].x = 500; ghosts[0].y = 100;
+            ghosts[1].x = 400; ghosts[1].y = 300;
+            ghosts[2].x = 300; ghosts[2].y = 150;
+            ghosts[3].x = 200; ghosts[3].y = 250;
+        }
+
+        // Manual controls (when auto-play is off)
+        document.addEventListener('keydown', (e) => {
+            if (!autoPlay) {
+                switch (e.key) {
+                    case 'ArrowUp':
+                        pacman.direction = 'up';
+                        break;
+                    case 'ArrowDown':
+                        pacman.direction = 'down';
+                        break;
+                    case 'ArrowLeft':
+                        pacman.direction = 'left';
+                        break;
+                    case 'ArrowRight':
+                        pacman.direction = 'right';
+                        break;
+                }
+            }
+        });
+
+        // Initialize and start game
+        initializeDots();
+        gameLoop();
+    </script>
+</body>
+</html>
