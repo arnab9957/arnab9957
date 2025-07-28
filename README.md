@@ -31,6 +31,15 @@
 
 ---
 
+## 🧩 LeetCode:
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/arnab9957/)
+[![LeetCode Stats](https://leetcode.card.workers.dev/arnab9957?theme=dark&font=baloo&extension=null)](https://leetcode.com/u/arnab9957/)
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=arnab9957&theme=dark)
+
+---
+
 # 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
