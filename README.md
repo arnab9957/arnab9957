@@ -37,13 +37,8 @@
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/arnab9957?theme=dark&font=baloo&extension=null)
 
-### 🏅 LeetCode Badges & Rankings:
-![LeetCode user arnab9957](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farnab9957&logo=leetcode&logoColor=yellow)
-![LeetCode user arnab9957](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farnab9957&logo=leetcode&logoColor=yellow)
-
-![LeetCode Badges](https://leetcode.com/static/images/badges/dcc-2024-1.png)
-![LeetCode Badges](https://leetcode.com/static/images/badges/dcc-2024-2.png)
-![LeetCode Badges](https://leetcode.com/static/images/badges/dcc-2024-3.png)
+### 🏅 LeetCode Badge:
+<img src="https://leetcode.com/medal/?showImg=0&id=7661494&isLevel=false" alt="LeetCode Badge" width="100" height="100">
 
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=arnab9957&theme=dark)
 
