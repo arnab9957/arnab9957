@@ -35,9 +35,9 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/arnab9957/)
 
-[![LeetCode Stats](https://leetcode-card.vercel.app/arnab9957?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/u/arnab9957/)
+![Leetcode Stats](https://leetcode-badge.vercel.app/badge/arnab9957?theme=dark)
 
-![LeetCode user arnab9957](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farnab9957&logo=leetcode&logoColor=yellow)
+![LeetCode user arnab9957](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farnab9957&logo=leetcode&logoColor=yellow)
 ![LeetCode user arnab9957](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ff6600&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farnab9957&logo=leetcode&logoColor=yellow)
 
 ---
