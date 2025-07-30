@@ -133,7 +133,7 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arnab9957&theme=github-compact&hide_border=true&bg_color=0d1117&color=39d353&line=26a641&point=39d353)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arnab9957&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
