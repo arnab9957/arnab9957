@@ -49,6 +49,16 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 ---
 
+## 💼 LinkedIn Profile:
+
+<div align="center">
+
+[![LinkedIn Profile Card](https://github-readme-linkedin.vercel.app/api?username=arnab-kumardey)](https://www.linkedin.com/in/arnab-kumardey/)
+
+</div>
+
+---
+
 ## 🧩 LeetCode Profile:
 
 <div align="center">
