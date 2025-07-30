@@ -6,6 +6,13 @@
 
 <p align="center">
   <a href="">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer%20%26%20AI% ## 💼 Current Projects & Interests
+
+- 🤖 **AI/ML Projects**: Working on machine learning models for data analysis and prediction
+- 🌐 **Full-Stack Development**: Building responsive web applications with modern frameworks
+- 📊 **Data Science**: Exploring data visualization and statistical analysis
+- 🔧 **Automation**: Creating tools to automate repetitive tasks and improve productivity
+- 📚 **Content Creation**: Writing technical articles and sharing knowledge through blogsf="">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer%20%26%20AI%20Enthusiast;Front-End%20Web%20%26%20Python%20Developer;Machine%20Learning%20%26%20Data%20Science;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
@@ -27,24 +34,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 📝 **Content Creator:** Regular technical articles on [Medium](https://medium.com/@arnabkumardey12062005)  
 💬 **Ask Me About:** Python, JavaScript, Machine Learning, Web Development, and Data Science  
 📫 **Reach Me:** arnabkumardey9957@gmail.com  
-⚡ **Fun Fact:** I love automating everyday tasks and building interactive games!">
-
-![Hi, I'm Arnab](3d-title.svg)
-
-</div>
-
-<p align="center">
-  
-  <a href="">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20and%20python%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
-
-# 💫 About Me:
-🔭 I’m currently working on Myself  
-🌱 I’m currently learning AI & ML And different Technologies.  
-👯 I’m looking to collaborate to gain knowledge  
-📝 I regularly write articles on [Medium](https://medium.com/@arnabkumardey12062005)  
-📫 How to reach me: arnabkumardey9957@gmail.com  
+⚡ **Fun Fact:** I love automating everyday tasks and building interactive games!
 
 ---
 
@@ -85,8 +75,6 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 </table>
 
 </div>
-
----
 
 ---
 
@@ -220,17 +208,6 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 - � **Data Science**: Exploring data visualization and statistical analysis
 - 🔧 **Automation**: Creating tools to automate repetitive tasks and improve productivity
 - 📚 **Content Creation**: Writing technical articles and sharing knowledge through blogs
-
----
-
-## 🎯 Goals for 2025
-
-- [ ] Contribute to 10+ open source projects
-- [ ] Master advanced machine learning techniques
-- [ ] Build and deploy 5 full-stack applications
-- [ ] Write 50+ technical articles
-- [ ] Earn cloud certifications (AWS/GCP)
-- [ ] Mentor junior developers
 
 ---
 
