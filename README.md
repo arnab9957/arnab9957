@@ -55,15 +55,23 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/arnab9957/)
 
-![Leetcode Stats](https://leetcode-badge.vercel.app/badge/arnab9957?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/arnab9957?theme=dark&font=Roboto&ext=heatmap)
 
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Problems%20Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farnab9957&logo=leetcode&logoColor=yellow" alt="Problems Solved"/>
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farnab9957&logo=leetcode&logoColor=yellow" alt="Problems Solved"/>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ff6600&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farnab9957&logo=leetcode&logoColor=yellow" alt="Ranking"/>
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%2300b4d8&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farnab9957&logo=leetcode&logoColor=white" alt="Easy Problems"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa500&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farnab9957&logo=leetcode&logoColor=white" alt="Medium Problems"/>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ff6b6b&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farnab9957&logo=leetcode&logoColor=white" alt="Hard Problems"/>
     </td>
   </tr>
 </table>
