@@ -187,7 +187,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arnab9957&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arnab9957&theme=github-dark&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&hide_border=true)](https://github.com/arnab9957)
 
 </div>
 
