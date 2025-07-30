@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![Profile Views](https://visitcount.itsvg.in/api?id=arnab9957&icon=6&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=arnab9957&color=brightgreen&style=flat-square&label=Profile+Views)](https://github.com/arnab9957)
 [![GitHub Followers](https://img.shields.io/github/followers/arnab9957?label=Followers&style=social)](https://github.com/arnab9957?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/arnab9957?label=Profile%20Stars&style=social)](https://github.com/arnab9957)
 
