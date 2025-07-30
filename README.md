@@ -6,14 +6,8 @@
 
 <p align="center">
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer%20%26%20AI% ## 💼 Current Projects & Interests
-
-- 🤖 **AI/ML Projects**: Working on machine learning models for data analysis and prediction
-- 🌐 **Full-Stack Development**: Building responsive web applications with modern frameworks
-- 📊 **Data Science**: Exploring data visualization and statistical analysis
-- 🔧 **Automation**: Creating tools to automate repetitive tasks and improve productivity
-- 📚 **Content Creation**: Writing technical articles and sharing knowledge through blogsf="">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer%20%26%20AI%20Enthusiast;Front-End%20Web%20%26%20Python%20Developer;Machine%20Learning%20%26%20Data%20Science;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer%20%26%20AI%20Enthusiast;Front-End%20Web%20%26%20Python%20Developer;Machine%20Learning%20%26%20Data%20Science;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  </a>
 </p>
 
 <div align="center">
@@ -133,7 +127,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
       <img src="https://github-readme-stats.vercel.app/api?username=arnab9957&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=arnab9957&theme=neon&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab9957&theme=neon&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
@@ -205,7 +199,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 - 🤖 **AI/ML Projects**: Working on machine learning models for data analysis and prediction
 - 🌐 **Full-Stack Development**: Building responsive web applications with modern frameworks
-- � **Data Science**: Exploring data visualization and statistical analysis
+- 📊 **Data Science**: Exploring data visualization and statistical analysis
 - 🔧 **Automation**: Creating tools to automate repetitive tasks and improve productivity
 - 📚 **Content Creation**: Writing technical articles and sharing knowledge through blogs
 
