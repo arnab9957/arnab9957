@@ -53,7 +53,10 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 <div align="center">
 
-[![LinkedIn Profile Card](https://github-readme-linkedin.vercel.app/api?username=arnab-kumardey)](https://www.linkedin.com/in/arnab-kumardey/)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Arnab%20Kumar%20Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/arnab-kumardey/)
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arnab-kumardey/)
+[![LinkedIn Followers](https://img.shields.io/badge/dynamic/json?color=0077B5&label=LinkedIn%20Connections&query=%24.connectionsCount&suffix=%2B&url=https%3A%2F%2Fapi.linkedin.com%2Fv2%2Fpeople%2F~%3Fprojection%3D(numConnections)&logo=linkedin&style=flat-square)](https://www.linkedin.com/in/arnab-kumardey/)
 
 </div>
 
