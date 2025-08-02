@@ -135,11 +135,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
       <img src="https://github-readme-stats.vercel.app/api?username=arnab9957&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab9957&theme=neon&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub Streak" />
-      <!-- Alternative URLs if above doesn't work:
-           https://streak-stats.demolab.com/?user=arnab9957&theme=neon&hide_border=false
-           https://github-readme-streak-stats.vercel.app/?user=arnab9957&theme=neon&hide_border=false
-      -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab9957&theme=dark&hide_border=true&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
