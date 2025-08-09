@@ -55,23 +55,23 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/arnab9957/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/arnab9957?theme=dark&font=Roboto&ext=heatmap)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=arnab9957&theme=dark)
 
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farnab9957&logo=leetcode&logoColor=yellow" alt="Problems Solved"/>
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Farnab9957&logo=leetcode&logoColor=yellow" alt="Problems Solved"/>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%2300b4d8&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farnab9957&logo=leetcode&logoColor=white" alt="Easy Problems"/>
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%2300b4d8&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Farnab9957&logo=leetcode&logoColor=white" alt="Easy Problems"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa500&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farnab9957&logo=leetcode&logoColor=white" alt="Medium Problems"/>
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa500&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Farnab9957&logo=leetcode&logoColor=white" alt="Medium Problems"/>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ff6b6b&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Farnab9957&logo=leetcode&logoColor=white" alt="Hard Problems"/>
+      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ff6b6b&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Farnab9957&logo=leetcode&logoColor=white" alt="Hard Problems"/>
     </td>
   </tr>
 </table>
@@ -135,7 +135,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
       <img src="https://github-readme-stats.vercel.app/api?username=arnab9957&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://git-streak-stats.demolab.com/?user=arnab9957&theme=dark&hide_border=false&stroke=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.vercel.app/?user=arnab9957&theme=dark" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
