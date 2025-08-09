@@ -55,11 +55,12 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/arnab9957/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/arnab9957?theme=dark)
+![LeetCode Stats](https://leetcode-badge.haozibi.dev/v1cn/chart/arnab9957.svg)
 
 <div align="center">
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arnab9957/)
+[![LeetCode Problems](https://img.shields.io/badge/LeetCode-Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arnab9957/)
 [![LeetCode Ranking](https://img.shields.io/badge/LeetCode-Ranking-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arnab9957/)
 
 </div>
@@ -123,7 +124,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
       <img src="https://github-readme-stats.vercel.app/api?username=arnab9957&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=arnab9957&theme=dark&hide_border=false" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab9957&theme=dark&hide_border=false" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
