@@ -55,15 +55,37 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/arnab9957/)
 
+### 📊 LeetCode Statistics
+
+![LeetCode Stats](https://leetcode.card.workers.dev/arnab9957?theme=dark&font=baloo&extension=activity)
+
 ![LeetCode Stats](https://leetcode-badge.haozibi.dev/v1cn/chart/arnab9957.svg)
 
-<div align="center">
+### 🏅 Dynamic LeetCode Badges
+
+[![LeetCode user arnab9957](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farnab9957&logo=leetcode&logoColor=yellow)](https://leetcode.com/arnab9957/)
+
+[![LeetCode user arnab9957](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farnab9957&logo=leetcode&logoColor=yellow)](https://leetcode.com/arnab9957/)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Easy-37%2F826-5CB85C?style=for-the-badge&logo=leetcode&logoColor=white" alt="Easy Problems"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Medium-23%2F1735-F0AD4E?style=for-the-badge&logo=leetcode&logoColor=white" alt="Medium Problems"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hard-2%2F743-D9534F?style=for-the-badge&logo=leetcode&logoColor=white" alt="Hard Problems"/>
+    </td>
+  </tr>
+</table>
+
+### 🎯 Problem Solving Progress
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arnab9957/)
-[![LeetCode Problems](https://img.shields.io/badge/LeetCode-Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arnab9957/)
-[![LeetCode Ranking](https://img.shields.io/badge/LeetCode-Ranking-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arnab9957/)
-
-</div>
+[![LeetCode Problems](https://img.shields.io/badge/LeetCode-62%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arnab9957/)
+[![LeetCode Ranking](https://img.shields.io/badge/LeetCode-Global%20Ranking-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arnab9957/)
 
 </div>
 
