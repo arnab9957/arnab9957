@@ -91,6 +91,20 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 ---
 
+## 🧠 NeetCode Profile:
+
+<div align="center">
+
+[![NeetCode](https://img.shields.io/badge/NeetCode-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/arnabkumardey9957@gmail.com)
+
+### 📈 Problem Solving Progress
+
+[![NeetCode Profile](https://img.shields.io/badge/NeetCode-Profile-FF6B35?style=for-the-badge&logo=code&logoColor=white)](https://neetcode.io/arnabkumardey9957@gmail.com)
+
+</div>
+
+---
+
 ## 💻 Tech Stack:
 
 ### 🚀 Programming Languages
