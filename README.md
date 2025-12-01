@@ -59,9 +59,6 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=arnab9957&theme=dark)
 
-
-[![LeetCode user arnab9957](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farnab9957&logo=leetcode&logoColor=yellow)](https://leetcode.com/arnab9957/)
-
 <table>
   <tr>
     <td align="center">
@@ -75,13 +72,6 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
     </td>
   </tr>
 </table>
-
-
-
-
-
-
-
 </div>
 
 ---
