@@ -144,15 +144,15 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=arnab9957&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=arnab9957&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab9957&theme=dark&hide_border=false" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=arnab9957&theme=dark" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab9957&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab9957&theme=dark&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
