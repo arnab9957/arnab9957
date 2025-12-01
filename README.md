@@ -59,11 +59,6 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=arnab9957&theme=dark)
 
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/arnab9957?theme=dark)](https://leetcode.com/u/arnab9957/)
-
-
-
-
 
 [![LeetCode user arnab9957](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farnab9957&logo=leetcode&logoColor=yellow)](https://leetcode.com/arnab9957/)
 
@@ -81,11 +76,11 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
   </tr>
 </table>
 
-### 🎯 Problem Solving Progress
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arnab9957/)
-[![LeetCode Problems](https://img.shields.io/badge/LeetCode-62%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arnab9957/)
-[![LeetCode Ranking](https://img.shields.io/badge/LeetCode-Global%20Ranking-00B4D8?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arnab9957/)
+
+
+
+
 
 </div>
 
@@ -97,7 +92,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 [![NeetCode](https://img.shields.io/badge/NeetCode-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/arnabkumardey9957@gmail.com)
 
-### 📈 Problem Solving Progress
+
 
 [![NeetCode Profile](https://img.shields.io/badge/NeetCode-Profile-FF6B35?style=for-the-badge&logo=code&logoColor=white)](https://neetcode.io/arnabkumardey9957@gmail.com)
 
