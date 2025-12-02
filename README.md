@@ -165,7 +165,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arnab9957&column=7&theme=gruvbox&no-frame=true&margin-w=15)
+<img src="https://github-profile-trophy.vercel.app/?username=arnab9957&column=7&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
