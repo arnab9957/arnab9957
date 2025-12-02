@@ -57,7 +57,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 ### 📊 LeetCode Statistics
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=arnab9957&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/arnab9957?theme=dark&font=Roboto)
 
 <table>
   <tr>
@@ -144,15 +144,15 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=arnab9957&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=arnab9957&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=arnab9957&theme=dark" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab9957&theme=dark" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab9957&theme=dark&layout=compact" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab9957&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -165,7 +165,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arnab9957&column=7&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=arnab9957&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -209,7 +209,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=arnab9957&limit=5&theme=neon&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=arnab9957&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
