@@ -223,11 +223,16 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 
 ## 🔝 Top Contributed Repositories
 
+<!-- START_SECTION:top-repos -->
 <div align="center">
 
-![Top Repos](https://github-contribution-card.vercel.app/api?username=arnab9957&theme=dark)
+| Repository | Stars | Contributions |
+| :--- | :--- | :--- |
+| **[RAG-ISRO](https://github.com/arnab9957/RAG-ISRO)** | ![Stars](https://img.shields.io/github/stars/arnab9957/RAG-ISRO?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-125-orange?style=flat-square) |
+| **[zoom_clone](https://github.com/arnab9957/zoom_clone)** | ![Stars](https://img.shields.io/github/stars/arnab9957/zoom_clone?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-98-orange?style=flat-square) |
 
 </div>
+<!-- END_SECTION:top-repos -->
 
 ---
 
