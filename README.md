@@ -20,11 +20,15 @@
 
 # 💫 About Me:
 
-Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusiast with a love for creating innovative solutions and exploring cutting-edge technologies.
+Hello! I'm **Arnab Kumar Dey**, an aspiring Software & AI Engineer skilled in building scalable full-stack and AI-enabled solutions.
 
-🔭 **Currently Working On:** Personal projects involving AI/ML and full-stack web development  
-🌱 **Currently Learning:** Advanced AI & Machine Learning, Cloud Technologies, and Modern Web Frameworks  
-👯 **Looking to Collaborate:** Open source projects, AI/ML research, and innovative web applications  
+I am currently pursuing a **Bachelor of Technology (BTech) in Artificial Intelligence** (Class of 2028) at Alipurduar Government Engineering and Management College, and completed a **Minor Degree in Artificial Intelligence** from the Indian Institute of Technology (IIT), Raipur.
+
+I also work as a **Research Intern** at the Institute of Engineering & Management (IEM), Kolkata.
+
+🔬 **Currently Working On:** Personal projects including **RAG-ISRO** (multi-agent RAG engine), **LLM Bias Mitigation**, and **Narrative Consistency Reasoning Systems**  
+🌱 **Currently Learning:** Agentic AI, Advanced Machine Learning, Cloud Computing (AWS/Azure), and DevOps Technologies  
+👯 **Looking to Collaborate:** Open source projects, AI/ML research, and innovative full-stack web applications  
 📝 **Content Creator:** Regular technical articles on [Medium](https://medium.com/@arnabkumardey12062005)  
 💬 **Ask Me About:** Python, JavaScript, Machine Learning, Web Development, and Data Science  
 📫 **Reach Me:** arnabkumardey9957@gmail.com  
@@ -62,13 +66,19 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 <table>
   <tr>
     <td align="center">
-
+      <a href="https://leetcode.com/u/arnab9957/">
+        <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+      </a>
     </td>
     <td align="center">
-
+      <a href="https://leetcode.com/u/arnab9957/">
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=orange&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farnab9957&logo=leetcode&logoColor=white" alt="LeetCode Solved" />
+      </a>
     </td>
     <td align="center">
-
+      <a href="https://leetcode.com/u/arnab9957/">
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=00B4D8&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Farnab9957&logo=leetcode&logoColor=white" alt="LeetCode Ranking" />
+      </a>
     </td>
   </tr>
 </table>
@@ -101,23 +111,25 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 
 ### 🎨 Frontend Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 
-### ⚙️ Backend Development
+### ⚙️ Backend & Databases
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
-### ☁️ Cloud & Deployment
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Inngest](https://img.shields.io/badge/Inngest-%234F46E5.svg?style=for-the-badge&logo=inngest&logoColor=white) 
 
 ### 🤖 AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -125,12 +137,16 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+### ☁️ Cloud & Tools
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
@@ -215,13 +231,16 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 ---
 
-## 💼 Current Projects & Interests
+## 💼 Featured Projects
 
-- 🤖 **AI/ML Projects**: Working on machine learning models for data analysis and prediction
-- 🌐 **Full-Stack Development**: Building responsive web applications with modern frameworks
-- 📊 **Data Science**: Exploring data visualization and statistical analysis
-- 🔧 **Automation**: Creating tools to automate repetitive tasks and improve productivity
-- 📚 **Content Creation**: Writing technical articles and sharing knowledge through blogs
+*   **🛰️ RAG-ISRO:** A mission-critical, self-contained multi-agent RAG engine designed for secure, air-gapped environments to query aerospace technical specifications and compliance guidelines with built-in zero-trust security pipelines, dynamic access control, and formal verification.
+*   **🛡️ LLM Bias Mitigation:** A powerful tool to detect, analyze, and mitigate algorithmic bias in Large Language Models.
+*   **🧩 Narrative Consistency Reasoning System:** A sophisticated multi-stage AI pipeline that verifies whether hypothetical character backstories remain logically consistent.
+*   **💡 Business Challenges AI-Powered Solutions:** Developed end-to-end AI models to solve real-world industry bottlenecks.
+*   **🏥 HealthWise:** A smart symptom detection system powered by ML to assist primary health analysis.
+*   **🎥 Zoom Clone:** Video conferencing application with individual and peer-to-peer connection capabilities.
+*   **📸 OpenCV Projects:** Featuring an interactive AI story generator mixing vision processing and generation.
+*   **📐 Roof-Top-Calc:** Automated utility tool designed for rooftop surface calculation via computer vision.
 
 ---
 
