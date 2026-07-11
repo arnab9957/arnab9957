@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/arnab9957">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer%20%26%20AI%20Enthusiast;Front-End%20Web%20%26%20Python%20Developer;Machine%20Learning%20%26%20Data%20Science;Always%20Learning%20New%20Technologies&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
@@ -144,7 +144,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=arnab9957&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=arnab9957&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnab9957&theme=dark" alt="GitHub Streak" />
@@ -152,7 +152,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnab9957&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=arnab9957&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -165,7 +165,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arnab9957&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-unserori.vercel.app/?username=arnab9957&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -209,7 +209,7 @@ Hello! I'm **Arnab Kumar Dey**, a passionate Full-Stack Developer and AI enthusi
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=arnab9957&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contribution-card.vercel.app/api?username=arnab9957&theme=dark)
 
 </div>
 
