@@ -22,7 +22,7 @@
 
 Hello! I'm **Arnab Kumar Dey**, an aspiring Software & AI Engineer skilled in building scalable full-stack and AI-enabled solutions.
 
-I am currently pursuing a **Bachelor of Technology (BTech) in Artificial Intelligence** (Class of 2028) at Alipurduar Government Engineering and Management College, and completed a **Minor Degree in Artificial Intelligence** from the Indian Institute of Technology (IIT), Raipur.
+I am currently pursuing a **Bachelor of Technology (BTech) in Artificial Intelligence** (Class of 2028) at Alipurduar Government Engineering and Management College, and completed a **Minor Degree in Artificial Intelligence** from the Indian Institute of Technology (IIT), Ropar.
 
 I also work as a **Research Intern** at the Institute of Engineering & Management (IEM), Kolkata.
 
