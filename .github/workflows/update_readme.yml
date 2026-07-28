@@ -26,6 +26,7 @@ jobs:
       - name: Run README Update Script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: python update_readme.py
 
       - name: Commit and Push Changes

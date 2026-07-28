@@ -180,13 +180,25 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 
 ## ⏱️ Coding Activity
 
+<!-- START_SECTION:wakatime -->
 <div align="center">
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=d8adf08a-af79-4b3f-8d60-bf4bf22a9064&theme=radical&hide_border=true&layout=compact)](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064)
+[![WakaTime](https://wakatime.com/badge/user/d8adf08a-af79-4b3f-8d60-bf4bf22a9064.svg)](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064)
 
-*⏱️ Stats powered by [WakaTime Profile](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064)*
+### 📊 Weekly Coding Breakdown (Total: **10 hrs 12 mins**)
+
+| Language | Time Spent | Progress |
+| :--- | :--- | :--- |
+| **TypeScript** | 8 hrs 51 mins | `████████████░░░` 78.2% |
+| **Other** | 1 hr 6 mins | `█░░░░░░░░░░░░░░` 9.8% |
+| **JSON** | 26 mins | `█░░░░░░░░░░░░░░` 3.9% |
+| **YAML** | 21 mins | `░░░░░░░░░░░░░░░` 3.1% |
+| **Markdown** | 14 mins | `░░░░░░░░░░░░░░░` 2.1% |
+
+*⏱️ Stats powered by [WakaTime Profile](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064) — updated live*
 
 </div>
+<!-- END_SECTION:wakatime -->
 
 ---
 
