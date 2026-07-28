@@ -44,6 +44,7 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arnabkumardey12062005) 
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/arnab_9957) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@itsarnabpoemworld8113) 
+[![WakaTime](https://img.shields.io/badge/WakaTime-075B9A.svg?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/its_arnab_2256) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/atosi.de.7) 
@@ -177,6 +178,18 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 
 ---
 
+## ⏱️ Coding Activity
+
+<div align="center">
+
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=d8adf08a-af79-4b3f-8d60-bf4bf22a9064&theme=radical&hide_border=true&layout=compact)](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064)
+
+*⏱️ Stats powered by [WakaTime Profile](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064)*
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -237,6 +250,33 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 
 </div>
 <!-- END_SECTION:top-repos -->
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/arnab9957/RAG-ISRO">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arnab9957&repo=RAG-ISRO&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/arnab9957/Personal-Finance-Tracker">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arnab9957&repo=Personal-Finance-Tracker&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/arnab9957/business-challenges-AI-powered-solutions.">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arnab9957&repo=business-challenges-AI-powered-solutions.&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/arnab9957/Multi-Modal-Recomendation-Systen">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arnab9957&repo=Multi-Modal-Recomendation-Systen&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/arnab9957/MedicationRecommendationSystem">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arnab9957&repo=MedicationRecommendationSystem&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/arnab9957/Roof-Top-Calc">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=arnab9957&repo=Roof-Top-Calc&theme=radical&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
