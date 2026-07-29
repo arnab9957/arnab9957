@@ -85,21 +85,7 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 </table>
 </div>
 
----
 
-## 🧠 NeetCode Profile:
-
-<div align="center">
-
-[![NeetCode](https://img.shields.io/badge/NeetCode-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white)](https://neetcode.io/arnabkumardey9957@gmail.com)
-
-
-
-[![NeetCode Profile](https://img.shields.io/badge/NeetCode-Profile-FF6B35?style=for-the-badge&logo=code&logoColor=white)](https://neetcode.io/arnabkumardey9957@gmail.com)
-
-</div>
-
----
 
 ## 💻 Tech Stack:
 
@@ -210,21 +196,7 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 
 </div>
 
----
 
-## 🎮 Interactive Elements
-
-### Auto-Playing Pac-Man Game
-
-<div align="center">
-
-![Auto Pac-Man Game](pacman-game.svg)
-
-*🤖 Watch Pac-Man automatically navigate the maze, collect dots, and avoid ghosts!*
-
-</div>
-
----
 
 ### ✍️ Random Dev Quote
 
