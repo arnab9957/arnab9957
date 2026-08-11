@@ -171,11 +171,10 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 
 [![WakaTime](https://wakatime.com/badge/user/d8adf08a-af79-4b3f-8d60-bf4bf22a9064.svg)](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064)
 
-### 📊 Weekly Coding Breakdown (Total: **12 mins**)
+### 📊 Weekly Coding Breakdown (Total: **0 secs**)
 
 | Language | Time Spent | Progress |
 | :--- | :--- | :--- |
-| **TypeScript** | 12 mins | `███████████████` 100.0% |
 
 *⏱️ Stats powered by [WakaTime Profile](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064) — updated live*
 
