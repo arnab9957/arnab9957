@@ -171,15 +171,15 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 
 [![WakaTime](https://wakatime.com/badge/user/d8adf08a-af79-4b3f-8d60-bf4bf22a9064.svg)](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064)
 
-### 📊 Weekly Coding Breakdown (Total: **25 hrs 9 mins**)
+### 📊 Weekly Coding Breakdown (Total: **24 hrs 11 mins**)
 
 | Language | Time Spent | Progress |
 | :--- | :--- | :--- |
-| **Dart** | 17 hrs 13 mins | `██████████░░░░░` 68.4% |
-| **TypeScript** | 2 hrs 57 mins | `██░░░░░░░░░░░░░` 11.7% |
-| **Markdown** | 1 hr 37 mins | `█░░░░░░░░░░░░░░` 6.4% |
-| **Python** | 51 mins | `█░░░░░░░░░░░░░░` 3.4% |
-| **YAML** | 49 mins | `░░░░░░░░░░░░░░░` 3.3% |
+| **Dart** | 16 hrs 23 mins | `██████████░░░░░` 67.7% |
+| **TypeScript** | 2 hrs 55 mins | `██░░░░░░░░░░░░░` 12.1% |
+| **Markdown** | 1 hr 37 mins | `█░░░░░░░░░░░░░░` 6.7% |
+| **Python** | 51 mins | `█░░░░░░░░░░░░░░` 3.5% |
+| **YAML** | 44 mins | `░░░░░░░░░░░░░░░` 3.1% |
 
 *⏱️ Stats powered by [WakaTime Profile](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064) — updated live*
 
