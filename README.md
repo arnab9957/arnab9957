@@ -175,10 +175,10 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 
 | Language | Time Spent | Progress |
 | :--- | :--- | :--- |
-| **Dart** | 7 hrs 52 mins | `█████████░░░░░░` 58.0% |
-| **Markdown** | 2 hrs 37 mins | `███░░░░░░░░░░░░` 19.3% |
-| **Other** | 52 mins | `█░░░░░░░░░░░░░░` 6.5% |
-| **TypeScript** | 33 mins | `█░░░░░░░░░░░░░░` 4.2% |
+| **Dart** | 7 hrs 52 mins | `█████████░░░░░░` 57.9% |
+| **Markdown** | 2 hrs 37 mins | `███░░░░░░░░░░░░` 19.2% |
+| **Other** | 53 mins | `█░░░░░░░░░░░░░░` 6.6% |
+| **TypeScript** | 33 mins | `█░░░░░░░░░░░░░░` 4.1% |
 | **YAML** | 29 mins | `█░░░░░░░░░░░░░░` 3.6% |
 
 *⏱️ Stats powered by [WakaTime Profile](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064) — updated live*
