@@ -171,15 +171,15 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 
 [![WakaTime](https://wakatime.com/badge/user/d8adf08a-af79-4b3f-8d60-bf4bf22a9064.svg)](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064)
 
-### 📊 Weekly Coding Breakdown (Total: **6 hrs 23 mins**)
+### 📊 Weekly Coding Breakdown (Total: **5 hrs 6 mins**)
 
 | Language | Time Spent | Progress |
 | :--- | :--- | :--- |
-| **Python** | 2 hrs 7 mins | `█████░░░░░░░░░░` 31.9% |
-| **Dart** | 1 hr 50 mins | `████░░░░░░░░░░░` 27.6% |
-| **SQL** | 1 hr 6 mins | `███░░░░░░░░░░░░` 16.7% |
-| **Markdown** | 55 mins | `██░░░░░░░░░░░░░` 13.8% |
-| **Other** | 15 mins | `█░░░░░░░░░░░░░░` 3.9% |
+| **Python** | 2 hrs 7 mins | `██████░░░░░░░░░` 39.5% |
+| **Dart** | 1 hr 20 mins | `████░░░░░░░░░░░` 25.1% |
+| **Markdown** | 55 mins | `███░░░░░░░░░░░░` 17.2% |
+| **SQL** | 25 mins | `█░░░░░░░░░░░░░░` 8.1% |
+| **Other** | 15 mins | `█░░░░░░░░░░░░░░` 4.8% |
 
 *⏱️ Stats powered by [WakaTime Profile](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064) — updated live*
 
@@ -230,7 +230,7 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 | **[V0_CLONE](https://github.com/arnab9957/V0_CLONE)** | ![Stars](https://img.shields.io/github/stars/arnab9957/V0_CLONE?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-35-orange?style=flat-square) |
 | **[arnab9957](https://github.com/arnab9957/arnab9957)** | ![Stars](https://img.shields.io/github/stars/arnab9957/arnab9957?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-18-orange?style=flat-square) |
 | **[C-programming](https://github.com/SovanAI/C-programming)** | ![Stars](https://img.shields.io/github/stars/SovanAI/C-programming?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-18-orange?style=flat-square) |
-| **[RWH-Roof-Top](https://github.com/ayansuvra/RWH-Roof-Top)** | ![Stars](https://img.shields.io/github/stars/ayansuvra/RWH-Roof-Top?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-15-orange?style=flat-square) |
+| **[VoterHelp](https://github.com/arnab9957/VoterHelp)** | ![Stars](https://img.shields.io/github/stars/arnab9957/VoterHelp?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-14-orange?style=flat-square) |
 
 </div>
 <!-- END_SECTION:top-repos -->
