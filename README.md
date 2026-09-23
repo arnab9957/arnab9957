@@ -175,11 +175,11 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 
 | Language | Time Spent | Progress |
 | :--- | :--- | :--- |
-| **Markdown** | 3 hrs 4 mins | `█████████████░░` 83.5% |
-| **Python** | 31 mins | `██░░░░░░░░░░░░░` 14.1% |
-| **Other** | 3 mins | `░░░░░░░░░░░░░░░` 1.5% |
+| **Markdown** | 3 hrs 4 mins | `█████████████░░` 84.7% |
+| **Python** | 31 mins | `██░░░░░░░░░░░░░` 14.3% |
 | **Image (png)** | 1 min | `░░░░░░░░░░░░░░░` 0.6% |
 | **Text** | 0 secs | `░░░░░░░░░░░░░░░` 0.3% |
+| **Other** | 0 secs | `░░░░░░░░░░░░░░░` 0.1% |
 
 *⏱️ Stats powered by [WakaTime Profile](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064) — updated live*
 
