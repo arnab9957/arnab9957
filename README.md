@@ -22,11 +22,11 @@
 
 Hello! I'm **Arnab Kumar Dey**, an aspiring Software & AI Engineer skilled in building scalable full-stack and AI-enabled solutions.
 
-I am currently pursuing a **Bachelor of Technology (BTech) in Artificial Intelligence** (Class of 2028) at Alipurduar Government Engineering and Management College, and completed a **Minor Degree in Artificial Intelligence** from the Indian Institute of Technology (IIT), Ropar.
+I am currently pursuing a **Bachelor of Technology (BTech) in Artificial Intelligence** (Class of 2028) at Alipurduar Government Engineering and Management College, and completed a **Minor Degree in Artificial Intelligence** from the Indian Institute of Technology (IIT), Raipur (RPR).
 
-I also work as a **Research Intern** at the Institute of Engineering & Management (IEM), Kolkata.
+I am also a **Research Intern** at the Institute of Engineering & Management (IEM), Kolkata, and previously worked on a Medical AI Research Project at **Jadavpur University**.
 
-🔬 **Currently Working On:** Personal projects including **RAG-ISRO** (multi-agent RAG engine), **LLM Bias Mitigation**, and **Narrative Consistency Reasoning Systems**  
+🔬 **Currently Working On:** Personal projects including **RAG-ISRO** (multi-agent RAG engine), **PassonRide**, and **Real-Time Work Detection**  
 🌱 **Currently Learning:** Agentic AI, Advanced Machine Learning, Cloud Computing (AWS/Azure), and DevOps Technologies  
 👯 **Looking to Collaborate:** Open source projects, AI/ML research, and innovative full-stack web applications  
 📝 **Content Creator:** Regular technical articles on [Medium](https://medium.com/@arnabkumardey12062005)  
@@ -266,14 +266,14 @@ I also work as a **Research Intern** at the Institute of Engineering & Managemen
 
 ## 💼 Featured Projects
 
-*   **🛰️ RAG-ISRO:** A mission-critical, self-contained multi-agent RAG engine designed for secure, air-gapped environments to query aerospace technical specifications and compliance guidelines with built-in zero-trust security pipelines, dynamic access control, and formal verification.
-*   **🛡️ LLM Bias Mitigation:** A powerful tool to detect, analyze, and mitigate algorithmic bias in Large Language Models.
-*   **🧩 Narrative Consistency Reasoning System:** A sophisticated multi-stage AI pipeline that verifies whether hypothetical character backstories remain logically consistent.
-*   **💡 Business Challenges AI-Powered Solutions:** Developed end-to-end AI models to solve real-world industry bottlenecks.
-*   **🏥 HealthWise:** A smart symptom detection system powered by ML to assist primary health analysis.
-*   **🎥 Zoom Clone:** Video conferencing application with individual and peer-to-peer connection capabilities.
-*   **📸 OpenCV Projects:** Featuring an interactive AI story generator mixing vision processing and generation.
-*   **📐 Roof-Top-Calc:** Automated utility tool designed for rooftop surface calculation via computer vision.
+*   **🛰️ RAG-ISRO:** Secure multi-agent RAG engine for aerospace technical specifications and compliance knowledge in air-gapped environments with zero-trust security and evidence verification.
+*   **🚗 PassonRide:** Flutter-based P2P vehicle rental and AI-powered guided tour marketplace connecting vehicle owners, hosts, and travelers.
+*   **🚀 Real-Time Work Detection:** Offline AI assistant designed to track, guide, and validate procedural experiments inside science modules of the Bharatiya Antariksh Station.
+*   **💡 Business Challenges – AI Solutions:** Developed end-to-end AI solutions for real-world industry bottlenecks.
+*   **🏥 HealthWise:** ML-based symptom detection system for preliminary health analysis.
+*   **📸 OpenCV Projects:** Computer-vision applications including an interactive AI story generator.
+*   **📐 Roof-Top-Calc:** Computer-vision utility for automated rooftop surface calculation.
+*   **🛡️ LLM Bias Mitigation:** Tool for detecting, analyzing, and mitigating algorithmic bias in LLMs.
 
 ---
 
