@@ -171,15 +171,15 @@ I am also a **Research Intern** at the Institute of Engineering & Management (IE
 
 [![WakaTime](https://wakatime.com/badge/user/d8adf08a-af79-4b3f-8d60-bf4bf22a9064.svg)](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064)
 
-### 📊 Weekly Coding Breakdown (Total: **12 hrs 44 mins**)
+### 📊 Weekly Coding Breakdown (Total: **11 hrs 6 mins**)
 
 | Language | Time Spent | Progress |
 | :--- | :--- | :--- |
-| **Python** | 4 hrs 31 mins | `█████░░░░░░░░░░` 35.5% |
-| **Markdown** | 2 hrs 51 mins | `███░░░░░░░░░░░░` 22.4% |
-| **TypeScript** | 1 hr 43 mins | `██░░░░░░░░░░░░░` 13.6% |
-| **Text** | 1 hr | `█░░░░░░░░░░░░░░` 7.9% |
-| **Dart** | 59 mins | `█░░░░░░░░░░░░░░` 7.8% |
+| **Markdown** | 2 hrs 51 mins | `████░░░░░░░░░░░` 25.6% |
+| **Python** | 2 hrs 48 mins | `████░░░░░░░░░░░` 25.2% |
+| **TypeScript** | 1 hr 45 mins | `██░░░░░░░░░░░░░` 15.8% |
+| **Text** | 59 mins | `█░░░░░░░░░░░░░░` 9.0% |
+| **Dart** | 59 mins | `█░░░░░░░░░░░░░░` 8.9% |
 
 *⏱️ Stats powered by [WakaTime Profile](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064) — updated live*
 
@@ -227,8 +227,8 @@ I am also a **Research Intern** at the Institute of Engineering & Management (IE
 | :--- | :--- | :--- |
 | **[passon_ride](https://github.com/arnab9957/passon_ride)** | ![Stars](https://img.shields.io/github/stars/arnab9957/passon_ride?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-84-orange?style=flat-square) |
 | **[RAG-ISRO](https://github.com/arnab9957/RAG-ISRO)** | ![Stars](https://img.shields.io/github/stars/arnab9957/RAG-ISRO?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-62-orange?style=flat-square) |
+| **[realtime-work-detection](https://github.com/arnab9957/realtime-work-detection)** | ![Stars](https://img.shields.io/github/stars/arnab9957/realtime-work-detection?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-35-orange?style=flat-square) |
 | **[V0_CLONE](https://github.com/arnab9957/V0_CLONE)** | ![Stars](https://img.shields.io/github/stars/arnab9957/V0_CLONE?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-35-orange?style=flat-square) |
-| **[realtime-work-detection](https://github.com/arnab9957/realtime-work-detection)** | ![Stars](https://img.shields.io/github/stars/arnab9957/realtime-work-detection?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-34-orange?style=flat-square) |
 | **[arnab9957](https://github.com/arnab9957/arnab9957)** | ![Stars](https://img.shields.io/github/stars/arnab9957/arnab9957?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-19-orange?style=flat-square) |
 | **[C-programming](https://github.com/SovanAI/C-programming)** | ![Stars](https://img.shields.io/github/stars/SovanAI/C-programming?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-18-orange?style=flat-square) |
 
