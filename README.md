@@ -264,6 +264,27 @@ I am also a **Research Intern** at the Institute of Engineering & Management (IE
 
 ---
 
+## 🤝 Collaborated Repositories
+
+<div align="center">
+
+<a href="https://github.com/Avasyu-hub/legalsafety">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avasyu-hub&repo=legalsafety&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/ayansuvra/RWH-Roof-Top">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayansuvra&repo=RWH-Roof-Top&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/chaitany851P/Inner-Light-Advisor">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=chaitany851P&repo=Inner-Light-Advisor&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/SovanAI/E-commerce_saree">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SovanAI&repo=E-commerce_saree&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+---
+
 ## 💼 Featured Projects
 
 *   **🛰️ RAG-ISRO:** Secure multi-agent RAG engine for aerospace technical specifications and compliance knowledge in air-gapped environments with zero-trust security and evidence verification.
