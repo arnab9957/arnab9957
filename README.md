@@ -171,15 +171,15 @@ I am also a **Research Intern** at the Institute of Engineering & Management (IE
 
 [![WakaTime](https://wakatime.com/badge/user/d8adf08a-af79-4b3f-8d60-bf4bf22a9064.svg)](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064)
 
-### 📊 Weekly Coding Breakdown (Total: **17 hrs 13 mins**)
+### 📊 Weekly Coding Breakdown (Total: **20 hrs 54 mins**)
 
 | Language | Time Spent | Progress |
 | :--- | :--- | :--- |
-| **Dart** | 12 hrs 46 mins | `███████████░░░░` 73.9% |
-| **Python** | 47 mins | `█░░░░░░░░░░░░░░` 4.5% |
-| **Batchfile** | 38 mins | `█░░░░░░░░░░░░░░` 3.7% |
-| **YAML** | 37 mins | `█░░░░░░░░░░░░░░` 3.6% |
-| **Kotlin** | 30 mins | `░░░░░░░░░░░░░░░` 2.9% |
+| **Dart** | 15 hrs 53 mins | `███████████░░░░` 75.8% |
+| **Batchfile** | 48 mins | `█░░░░░░░░░░░░░░` 3.9% |
+| **Python** | 47 mins | `█░░░░░░░░░░░░░░` 3.7% |
+| **Markdown** | 43 mins | `█░░░░░░░░░░░░░░` 3.5% |
+| **YAML** | 40 mins | `░░░░░░░░░░░░░░░` 3.2% |
 
 *⏱️ Stats powered by [WakaTime Profile](https://wakatime.com/@d8adf08a-af79-4b3f-8d60-bf4bf22a9064) — updated live*
 
@@ -225,7 +225,7 @@ I am also a **Research Intern** at the Institute of Engineering & Management (IE
 
 | Repository | Stars | Contributions |
 | :--- | :--- | :--- |
-| **[passon_ride](https://github.com/arnab9957/passon_ride)** | ![Stars](https://img.shields.io/github/stars/arnab9957/passon_ride?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-115-orange?style=flat-square) |
+| **[passon_ride](https://github.com/arnab9957/passon_ride)** | ![Stars](https://img.shields.io/github/stars/arnab9957/passon_ride?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-122-orange?style=flat-square) |
 | **[realtime-work-detection](https://github.com/arnab9957/realtime-work-detection)** | ![Stars](https://img.shields.io/github/stars/arnab9957/realtime-work-detection?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-35-orange?style=flat-square) |
 | **[V0_CLONE](https://github.com/arnab9957/V0_CLONE)** | ![Stars](https://img.shields.io/github/stars/arnab9957/V0_CLONE?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-35-orange?style=flat-square) |
 | **[arnab9957](https://github.com/arnab9957/arnab9957)** | ![Stars](https://img.shields.io/github/stars/arnab9957/arnab9957?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-21-orange?style=flat-square) |
