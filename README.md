@@ -230,7 +230,7 @@ I am also a **Research Intern** at the Institute of Engineering & Management (IE
 | **[RAG-ISRO](https://github.com/arnab9957/RAG-ISRO)** | ![Stars](https://img.shields.io/github/stars/arnab9957/RAG-ISRO?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-67-orange?style=flat-square) |
 | **[realtime-work-detection](https://github.com/arnab9957/realtime-work-detection)** | ![Stars](https://img.shields.io/github/stars/arnab9957/realtime-work-detection?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-35-orange?style=flat-square) |
 | **[V0_CLONE](https://github.com/arnab9957/V0_CLONE)** | ![Stars](https://img.shields.io/github/stars/arnab9957/V0_CLONE?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-35-orange?style=flat-square) |
-| **[Bill_Management](https://github.com/arnab9957/Bill_Management)** | ![Stars](https://img.shields.io/github/stars/arnab9957/Bill_Management?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-28-orange?style=flat-square) |
+| **[Bill_Management](https://github.com/arnab9957/Bill_Management)** | ![Stars](https://img.shields.io/github/stars/arnab9957/Bill_Management?style=flat-square&color=yellow) | ![Commits](https://img.shields.io/badge/commits-33-orange?style=flat-square) |
 
 </div>
 <!-- END_SECTION:top-repos -->
